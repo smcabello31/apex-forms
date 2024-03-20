@@ -1,1 +1,3 @@
-console.log('Hola Mundo!')
+const helloWorld = () => {
+  console.log('Hello World!')
+}
